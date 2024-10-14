@@ -1,0 +1,6 @@
+1973435995;L'enfant_noir;Camara_Laye;1953
+1973435996;Les_bimanes;Severin_Abega;1982
+1973435997;Ville_cruelle;Eza_boto;1954
+1973435998;Le_Fils_d'Agatha_Moudio;Francis_Bebey;1965
+1973435999;Le_Monde_s'effondre;Chinua_Achebe;1958
+

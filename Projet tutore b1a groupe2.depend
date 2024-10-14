@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1705671429 source:d:\documents\travauxfondamentauxprogrammation\projet tutore b1a groupe2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"livres.h"
+	"etudiants.h"
+	"emprunt.h"
+
+1705403199 d:\documents\travauxfondamentauxprogrammation\projet tutore b1a groupe2\fonction.h
+
+1705832847 source:d:\documents\travauxfondamentauxprogrammation\projet tutore b1a groupe2\livres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"livres.h"
+
+1705447916 d:\documents\travauxfondamentauxprogrammation\projet tutore b1a groupe2\livres.h
+
+1705416040 d:\documents\travauxfondamentauxprogrammation\projet tutore b1a groupe2\emprunts.h
+
+1705922633 d:\documents\travauxfondamentauxprogrammation\projet tutore b1a groupe2\etudiants.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1705835398 d:\documents\travauxfondamentauxprogrammation\projet tutore b1a groupe2\emprunt.h
+
+1705931640 source:d:\documents\travauxfondamentauxprogrammation\projet tutore b1a\livres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"livres.h"
+
+1705929616 d:\documents\travauxfondamentauxprogrammation\projet tutore b1a\livres.h
+
+1705929037 source:d:\documents\travauxfondamentauxprogrammation\projet tutore b1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"livres.h"
+	"etudiants.h"
+	"emprunt.h"
+
+1706042434 d:\documents\travauxfondamentauxprogrammation\projet tutore b1a\etudiants.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1706042434 d:\documents\travauxfondamentauxprogrammation\projet tutore b1a\emprunt.h
+
